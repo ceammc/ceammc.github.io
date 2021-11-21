@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
+{% assign lang = site.data.language.ru %}
+<a href="{{site.baseurl}}/ru">{{lang.icon}} {{ lang.label }} ({{ language.code }})</a>
 
-<ul class="languages">
-{% for lang in site.data.languages %}
-{% assign language = lang[1] %}
-<li><a href="{{site.baseurl}}{{lang[0]}}">{{language.icon}} {{ language.label }} ({{ language.code }})</a></li>
-{% endfor %}
-</ul>
+
+## Welcome to CEAMMC GitHub Pages

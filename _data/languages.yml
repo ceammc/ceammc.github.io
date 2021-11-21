@@ -1,6 +1,8 @@
 en:
-  label: English
+  label: english
   icon: 🇺🇸
-es:
-  label: Russian
+  code: en
+ru:
+  label: russian
   icon: 🇷🇺
+  code: ru
