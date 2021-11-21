@@ -13,6 +13,8 @@
 
 General purpose Pd distribution and library used for work and education purposes in Centre of electroacoustic music of Moscow Conservatory (CEAMMC) and ZIL-electro studio.
 
+Current version: **{{site.data.ceammc.distrib.version}}**
+
 #### Download
 
 <div style="padding: 20px 5px">
