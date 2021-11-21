@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
-title: "CEAMMC"
-description: "Moscow Conservatory Centre for Electroacoustic Music"
+title: CEAMMC
+logo: img/logo_ceammc.png
+description: Moscow Conservatory Centre for Electroacoustic Music
+
 github:
   is_project_page: False
