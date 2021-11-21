@@ -8,6 +8,9 @@
 
 ### PureData ceammc distibution
 
+<img src="img/pd-icon-64.png" alt="download windows version" style="padding: 0 10px" width="64px"/>
+
+
 General purpose Pd distribution and library used for work and education purposes in Centre of electroacoustic music of Moscow Conservatory (CEAMMC) and ZIL-electro studio.
 
 #### Download
