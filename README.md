@@ -12,18 +12,16 @@ General purpose Pd distribution and library used for work and education purposes
 
 #### Download
 
-<div>
+<div style="padding: 20px 5px">
 <a href="https://github.com/uliss/pure-data/releases/download/v2021.11/Pd-ceammc_2021.11-macosx-10.13.dmg">
-<img src="img/mac-os-64.png" alt="download mac version"/>
-<span>dmg</span>
+<img src="img/mac-os-64.png" alt="download mac version" style="padding: 0 10px"/>
 </a>
+
 <a href="https://github.com/uliss/pure-data/releases/download/v2021.11/PureData-ceammc-2021.11-x86_64-float-setup.exe">
-<img src="img/os-windows8-64.png" alt="download windows version"/>
-<span>exe</span>
+<img src="img/os-windows8-64.png" alt="download windows version" style="padding: 0 10px"/>
 </a>
 <a href="https://snapcraft.io/pd-ceammc">
-<img src="img/linux-64.png" alt="download linux version"/>
-<span>snap</span>
+<img src="img/linux-64.png" alt="download linux version" style="padding: 0 10px"/>
 </a>
 </div>
 
