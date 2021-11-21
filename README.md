@@ -16,7 +16,7 @@ General purpose Pd distribution and library used for work and education purposes
 #### Download
 
 <div style="padding: 20px 5px">
-<a href="https://github.com/uliss/pure-data/releases/download/v2021.11/Pd-ceammc_2021.11-macosx-10.13.dmg">
+<a href="https://github.com/uliss/pure-data/releases/download/v{{site.data.ceammc.distrib.version}}/Pd-ceammc_{{site.data.ceammc.distrib.version}}-macosx-10.13.dmg">
 <img src="img/mac-os-64.png" alt="download mac version" style="padding: 0 10px"/>
 </a>
 
